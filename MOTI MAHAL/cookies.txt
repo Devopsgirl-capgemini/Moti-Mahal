@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+en.islcollective.com	TRUE	/	FALSE	1999999999	next-i18next	en
+en.islcollective.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+.slideplayer.com	TRUE	/	FALSE	1999999999	country	IN
+.researchgate.net	TRUE	/	FALSE	1999999999	__cf_bm	dKEd13ElAqYOCd.EVdFBM5btFcVM8s6GY83ifV2dytw-1696872914-0-AZO7wWC67Ogkyz6JnhmBBmJ2W5lGJIqmKCIcIzbSAgDi9k7QyqVHag5z9OkzUEWVh7370YxO3/pBKQjSzQXnIBCKU7/8tnWiRr3TRSX5HxuO
+www.researchgate.net	TRUE	/	FALSE	1999999999	SameSite	None
+.rgstatic.net	TRUE	/	FALSE	1999999999	__cf_bm	DUT8UeNt4V19wPQcLcFPfh_07GcpA0SK2qmYV63SExg-1696872921-0-AZElRAs/c/0qh0hmkiYVbBx3B9nYgqbDwcXWlEavKzy0RIsraX79VgydRUcPBCOCTE1O1vLtldDod8z3s2GOLfM=
+i1.rgstatic.net	TRUE	/	FALSE	1999999999	SameSite	None
+uk.match.com	TRUE	/	FALSE	1999999999	lbcooki_-1496232067_80	172_16_3_12-80
+uk.match.com	TRUE	/	FALSE	1999999999	KplLTM	!gfUiwOgHlfKht792yR66elp/ci2Iuu49GIuxaT4aNZ/r4FAYxtQ3EH8YopKtX/JO9ZLaX0MbNSkkHeQ=
+dhgate.com	TRUE	/	FALSE	1999999999	odvid	rBIKeGUkO2QhnWeyBcYQAg==
+.springer.com	TRUE	/	FALSE	1999999999	sim-inst-token	1::1696904206461:02e41e8a"
+.springer.com	TRUE	/	FALSE	1999999999	trackid	akgttqxprlkl5xux8ckdvgsax"
+
